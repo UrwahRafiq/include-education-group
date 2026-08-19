@@ -41,18 +41,18 @@
   height: 101px;
 }
 .farbtastic .wheel {
-  background: url(/include-education-group/wp-content/plugins/unlimited-elements-for-elementor/js/farbtastic/wheel.png) no-repeat;
+  background: url(https://urwahrafiq.github.io/include-education-group/wp-content/plugins/unlimited-elements-for-elementor/js/farbtastic/wheel.png) no-repeat;
   width: 195px;
   height: 195px;
 }
 .farbtastic .overlay {
-  background: url(/include-education-group/wp-content/plugins/unlimited-elements-for-elementor/js/farbtastic/mask.png) no-repeat;
+  background: url(https://urwahrafiq.github.io/include-education-group/wp-content/plugins/unlimited-elements-for-elementor/js/farbtastic/mask.png) no-repeat;
 }
 .farbtastic .marker {
   width: 17px;
   height: 17px;
   margin: -8px 0 0 -8px;
   overflow: hidden; 
-  background: url(/include-education-group/wp-content/plugins/unlimited-elements-for-elementor/js/farbtastic/marker.png) no-repeat;
+  background: url(https://urwahrafiq.github.io/include-education-group/wp-content/plugins/unlimited-elements-for-elementor/js/farbtastic/marker.png) no-repeat;
 }
 
